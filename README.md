@@ -5,7 +5,7 @@
 
 ## Course Modules
 
-| S.No | Azure Service Name |
+| S.No | Azure Service Name |  
 | ---- | ---------------- |
 | 1.   | Create Azure AKS Cluster using Azure Portal |
 | 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
